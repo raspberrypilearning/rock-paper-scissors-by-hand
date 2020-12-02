@@ -47,8 +47,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/trained-vision-app/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/rock-paper-scissors-by-hand/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/trained-vision-app-go).
+[Here is a link to the resources for this project](http://rpf.io/rock-paper-scissors-by-hand-go).
 
 --- /collapse ---
