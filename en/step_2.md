@@ -1,23 +1,37 @@
-## Step title
+## Get started with Teachable Machine
 
-Add an introductory sentence. What will learners achieve by the end of this step?
-
---- task ---
-
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
-
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
+This project has two parts to it: first you build a model on Teachable Machine, and then you use that model in a game you'll build on your computer. Teachable Machine is a tool made by Google that creates machine learning models in your browser. You'll create a model to recognise images, but it can also create models that recognise sounds, or body poses.
 
 --- task ---
 
-Step content...
+Open the [Teachable Machine image model training page](https://teachablemachine.withgoogle.com/train/image){:target="_blank"} in a new tab in your browser.
 
 --- /task ---
 
---- save ---
+![Teach Machine training page](images/tm_start_screen.png)
+
+This is an untrained model, with two classes. Of course, since you need to recognise 'rock', 'paper', and 'scissors', you're going to need three classes.
+
+--- task ---
+
+Click the **Add a class** button to add a third class to your model.
+
+![](images/tm_add_class.png)
+
+--- /task ---
+
+Next, give your classes proper labels that match what they're going to be trained to recognise.
+
+--- task ---
+
+Use the pencil beside each class name to rename them as follows:
+
+  + Change 'Class 1' to 'rock'
+  + Change 'Class 2' to 'paper'
+  + Change 'Class 3' to 'scissors'
+
+It's important to match this order, because some of the code provided to help your game run assumes that the classes are ordered like this.
+
+--- /task ---
+
+Now you're ready to record some training data.

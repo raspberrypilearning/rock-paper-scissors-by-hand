@@ -1,38 +1,33 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
 ### What you will make
+Create a game of rock, paper, scissors that you can play against the computer: you will make the gestures with your hands and have the computer recognise them. In this version of the game, the computer is going to cheat — it will recognise the player's move and choose the object that will beat it!
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Essentially, you'll create a simpler version of the brain of this awesome robot.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qb5UIPeFClM?controls=0&amp;start=3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+--- collapse ---
+---
+title: What you should already know
+---
+This project assumes you already know some Python. Specifically, it assumes you know how to use:
+
++ Variables
++ Functions, including how to create your own function that accepts arguments
++ The structure of a machine learning model — see [project 3](#) for details
++ How to use the command line interface on your computer to navigate to a directory — see [project 4](#) for details
+
+--- /collapse ---
 
 --- collapse ---
 ---
 title: What you will need
 ---
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ A computer with a camera
++ An internet connection
++ A Google account
 
 --- /collapse ---
 
@@ -41,9 +36,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
++ How to create and train a machine vision model quickly using Teachable Machine
++ What you need to consider when you create a model to make sure that it works in practice
++ How to include a model you've created in a desktop application
 
 --- /collapse ---
 
@@ -52,8 +47,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/trained-vision-app/print){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+[Here is a link to the resources for this project](http://rpf.io/trained-vision-app-go).
 
 --- /collapse ---
