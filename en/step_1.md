@@ -15,8 +15,8 @@ This project assumes you already know some Python. Specifically, it assumes you 
 
 + Variables
 + Functions, including how to create your own function that accepts arguments
-+ The structure of a machine learning model — see [project 3](#) for details
-+ How to use the command line interface on your computer to navigate to a directory — see [project 4](#) for details
++ The structure of a machine learning model — see [Teach a computer to read](https://projects.raspberrypi.org/en/projects/teach-a-computer-to-read){:target="_blank"} for details
++ How to use the command line interface on your computer to navigate to a directory — see [Amazing image identifier](https://projects.raspberrypi.org/en/projects/amazing-image-identifier){:target="_blank"} for details
 
 --- /collapse ---
 
