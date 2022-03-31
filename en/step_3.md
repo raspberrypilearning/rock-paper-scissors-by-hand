@@ -2,6 +2,8 @@
 
 Now that you have your classes set up, you need to add some data to use to train them. Each class has two options under 'Add Image Samples': **Webcam** and **Upload**. If you had a large collection of photographs of people making the 'rock', 'paper', and 'scissors' gestures on your computer, you could upload them. However, as you probably don't have that, you're going to use the **Webcam** option to record some images now. If you are using a Raspberry Pi with a camera, once you have [set up the camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera) it will function as a webcam.
 
+--- task ---
+
 Click on the **Webcam** button for the 'rock' class.
 
 --- /task ---
