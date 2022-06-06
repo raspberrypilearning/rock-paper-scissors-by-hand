@@ -9,10 +9,12 @@ copyedit: true
 last_tested: '2020-06-12'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Get started with Teachable Machine
 - title: Collect your training data
+  completion:
+  - engaged
 - title: Create your model
 - title: Set up your game
-  completion: internal
 - title: Connect your model to the game
+  completion:
+  - internal
